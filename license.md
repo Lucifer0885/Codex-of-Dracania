@@ -3,6 +3,7 @@
 Copyright (c) 2025 Lucifer0885
 
 Summary (plain English)
+
 - This project is NOT open source.
 - You may use, run, and incorporate compiled/binary forms of this project in your personal, internal, or commercial projects.
 - You may NOT redistribute the project's source code, fork the source, or publish modified source code unless you have explicit, written permission from the Copyright Holder (see "Permissions" below).
@@ -42,4 +43,5 @@ Permission is hereby granted, free of charge, to any person or entity (the "Lice
    - This License is governed by the laws of the jurisdiction of the Copyright Holder, without regard to conflict of law provisions.
 
 Notes
+
 - This is a custom, source-available, proprietary-style license inspired by permissive licenses like MIT but intentionally NOT open-source. It restricts source redistribution and requires owner acceptance for contributions.
