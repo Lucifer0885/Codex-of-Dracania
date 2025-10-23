@@ -12,3 +12,5 @@ Here you will find:
 
 Carry this tome, and you shall never wander unprepared.  
 **The Eternal Hunt awaits…**
+
+[Dev Repo](https://github.com/Lucifer0885/Codex-of-Dracania-dev)
